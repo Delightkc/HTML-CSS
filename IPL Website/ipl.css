@@ -1,0 +1,11 @@
+body{ padding-top:70px;
+	}
+.jumbotron{color:#2c3e50;
+	background:url("C:\\Users\\faizan\\Desktop\\ipl_logo.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right;}
+.algn{text-align: center;
+	}
+.navbar{background:#2c3e50;
+	}
